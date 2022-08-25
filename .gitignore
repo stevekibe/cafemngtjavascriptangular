@@ -1,0 +1,4 @@
+.env
+node_modules/
+table.sql
+.jshintrc
